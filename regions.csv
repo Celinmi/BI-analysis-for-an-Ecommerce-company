@@ -1,0 +1,41 @@
+regionID,City,Country,Continent
+RGN101,New York,United States,North America
+RGN102,Los Angeles,United States,North America
+RGN103,Chicago,United States,North America
+RGN104,Houston,United States,North America
+RGN105,Phoenix,United States,North America
+RGN201,London,United Kingdom,Europe
+RGN202,Birmingham,United Kingdom,Europe
+RGN203,Manchester,United Kingdom,Europe
+RGN204,Glasgow,United Kingdom,Europe
+RGN205,Liverpool,United Kingdom,Europe
+RGN301,Paris,France,Europe
+RGN302,Marseille,France,Europe
+RGN303,Lyon,France,Europe
+RGN304,Toulouse,France,Europe
+RGN305,Nice,France,Europe
+RGN401,Berlin,Germany,Europe
+RGN402,Hamburg,Germany,Europe
+RGN403,Munich,Germany,Europe
+RGN404,Cologne,Germany,Europe
+RGN405,Frankfurt,Germany,Europe
+RGN501,Madrid,Spain,Europe
+RGN502,Barcelona,Spain,Europe
+RGN503,Valencia,Spain,Europe
+RGN504,Seville,Spain,Europe
+RGN505,Zaragoza,Spain,Europe
+RGN601,Rome,Italy,Europe
+RGN602,Milan,Italy,Europe
+RGN603,Naples,Italy,Europe
+RGN604,Turin,Italy,Europe
+RGN605,Palermo,Italy,Europe
+RGN701,Sydney,Australia,Oceania
+RGN702,Melbourne,Australia,Oceania
+RGN703,Brisbane,Australia,Oceania
+RGN704,Perth,Australia,Oceania
+RGN705,Adelaide,Australia,Oceania
+RGN801,Jerusalem,Israel,Asia
+RGN802,Tel Aviv,Israel,Asia
+RGN803,Haifa,Israel,Asia
+RGN804,Rishon LeZion,Israel,Asia
+RGN805,Petah Tikva,Israel,Asia

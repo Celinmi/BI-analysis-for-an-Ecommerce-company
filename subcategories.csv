@@ -1,0 +1,51 @@
+SubcategoryID,SubcategoryName,CategoryID
+101,T-Shirts & Tops,1
+102,Jeans & Trousers,1
+103,Dresses & Skirts,1
+104,Sneakers & Casual Shoes,1
+105,Formal Wear,1
+106,Activewear,1
+107,Swimwear,1
+108,Outerwear,1
+109,Accessories,1
+110,Bags & Backpacks,1
+201,Smartphones & Accessories,2
+202,Laptops & Tablets,2
+203,Headphones & Speakers,2
+204,Wearable Devices,2
+205,Gaming Accessories,2
+206,Cameras & Photography,2
+207,Smart Home Devices,2
+208,Computer Components,2
+209,Chargers & Power Banks,2
+210,Virtual Reality Gear,2
+301,Skincare Products,3
+302,Haircare Products,3
+303,Makeup & Cosmetics,3
+304,Fragrances,3
+305,Wellness Supplements,3
+306,Men's Grooming,3
+307,Oral Care,3
+308,Bath & Body Products,3
+309,Nail Care,3
+310,Beauty Tools & Brushes,3
+401,Decorative Items,4
+402,Kitchenware,4
+403,Bedding & Linens,4
+404,Lighting & Lamps,4
+405,Small Furniture,4
+406,Storage Solutions,4
+407,Wall Art,4
+408,Planters & Gardening,4
+409,Home Office Supplies,4
+410,Home Fragrances,4
+501,Fitness Equipment,5
+502,Outdoor Apparel,5
+503,Camping Gear,5
+504,Bicycles & Accessories,5
+505,Water Sports Equipment,5
+506,Hiking & Trekking Gear,5
+507,Team Sports Equipment,5
+508,Yoga & Pilates Accessories,5
+509,Winter Sports Gear,5
+510,Travel Accessories,5
